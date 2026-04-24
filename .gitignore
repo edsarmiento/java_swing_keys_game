@@ -1,5 +1,8 @@
 # Compiled Java classes
 *.class
 
+# Build artifacts
+*.jar
+
 # macOS metadata
 .DS_Store
